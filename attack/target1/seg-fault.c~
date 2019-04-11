@@ -1,0 +1,6 @@
+#include<stdio>
+#include<string>
+int main(){
+  char *str = "foo";
+  *str = 'b';
+}
